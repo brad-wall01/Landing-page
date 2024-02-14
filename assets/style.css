@@ -1,0 +1,79 @@
+header {
+    /*position:fixed;*/
+    background-color: aquamarine;
+    padding: 30px;
+
+    
+}
+ #Github{
+    position: relative;
+    left: 1500px;
+ }
+
+ #Portfolio{
+    position: relative;
+    left: 1600px;
+ }
+
+ #Contact{
+    position:relative;
+    left: 1700px;
+ }
+
+ 
+
+section{
+
+}
+
+h1{
+    /*position:relative;
+    left: 900px;*/
+    text-align: center;
+}
+
+img{
+    position:relative;
+    left: 755px;
+    
+}
+
+p{
+    /*position:relative;
+    left: 400px;*/
+    text-align: center;
+}
+
+.Contact{
+    background-color: peachpuff;
+    padding: 50px;
+   
+}
+
+h2{
+    /*position:relative;
+    left: 930px;*/
+    text-align:center;
+
+}
+
+div{
+    position:relative;
+    left: 760px;
+    margin: 10px;
+}
+
+.block{
+    position:relative;
+    left: 700px;
+
+}
+
+
+
+footer{
+    background-color: greenyellow;
+    padding: 1px;
+}
+
+
